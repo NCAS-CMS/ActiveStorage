@@ -7,7 +7,11 @@ Active Storage (Package)
 
 **General**
 
-First draft of the ActiveStorage package.
+First draft of the ActiveStorage Python package.
+
+- Python: 3.9 and 3.10
+- [Github Actions](https://github.com/NCAS-CMS/ActiveStorage/actions)
+- Miniforge/conda-based installation
 
 **Create `conda` environment**
 
