@@ -19,7 +19,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v2
         with:
           activate-environment: activestorage
-          environment-file: first_prototypes/environment.yml
+          environment-file: environment.yml
           python-version: ${{ matrix.python-version }}
           miniforge-version: "latest"
           miniforge-variant: Mambaforge
