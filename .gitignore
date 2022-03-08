@@ -1,0 +1,12 @@
+basic/__pycache__
+basic/test-reports
+dask_ssh_cluster/__pycache__/
+.coverage
+.eggs/
+ActiveStorage.egg-info/
+api-prototype/__pycache__/
+api-prototype/various_initial_experiments/__pycache__/
+test-reports
+activestorage/__pycache__/__init__.cpython-310.pyc
+tests/__pycache__/__init__.cpython-310.pyc
+tests/__pycache__/test_basic_read.cpython-310-pytest-7.0.1.pyc
