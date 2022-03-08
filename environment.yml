@@ -1,0 +1,11 @@
+---
+name: active-storage
+channels:
+  - conda-forge
+
+dependencies:
+  # basic list of dependencies to be extended as we require packages
+  - netcdf4 
+  - pathlib
+  - pip!=21.3
+  - python>=3.9
